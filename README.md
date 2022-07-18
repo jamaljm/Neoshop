@@ -1,2 +1,2 @@
 # Neoshop
-Online shopping website for electronic devices
+ Hosted Link : https://jamaljm.github.io/Neoshop/
