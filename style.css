@@ -68,7 +68,7 @@ nav{
     align-items: center;
 }
 .nav-left h1{
-    margin-left: 42px;
+    margin-left: 21%;
 }
 .nav-right {
     margin-right: 20px;
@@ -85,7 +85,7 @@ nav{
     cursor: pointer;
     margin-right: 19px;
     padding: 7px 10px;
-    background: #dfdfdf40;
+    background: #80808040;
     
 }
 .notification-icon:hover{
@@ -93,14 +93,14 @@ nav{
 }
 .notification-icon img{
     width: 16px;
-    opacity: .3;
+    opacity: 1;
     margin-top: 1px;
 }
 .nav-user-icon{
     margin-left: 20px;
 }
 .search-box{
-    background: #dfdfdf40;
+    background: #bcbcbc40;
     width: 210PX;
     border-radius: 8px;
     display: flex;
@@ -147,7 +147,7 @@ nav{
     border-left: 2px solid rgba(204, 204, 204, 0.269);
     height: 1000px;
     position: fixed;
-    margin-left: 185px;
+    margin-left: 14%;
     z-index: 6;
 }
 .container{
@@ -534,13 +534,13 @@ nav{
 .brand-button{
     text-decoration: none;
     align-items: center;
-    margin-bottom: 2px;
+    margin-bottom: 1%;
     width: fit-content;
     font-size: 12px;
-    width: 120px;
+    width: 20%;
     font-family:SFPRODISPLAYMEDIUM;
     padding: 10px 10px 10px 10px;
-    margin-right: 20px;
+    margin-right: 2%;
     border-radius: 7px;
     margin-left: 0px;
     color: #0e0e0e;
@@ -560,7 +560,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 12px;
+    margin-bottom: 2%;
     padding: 1px 2px 2px 2px;
 
 }
@@ -586,8 +586,8 @@ nav{
 
 }
 .item-box{
-    height: 140px;
-    width: 106px;
+    height: 20%;
+    width: 20%;
     box-shadow: rgba(149, 157, 165, 0.071) 10px 0px 30px;
     border-radius: 8px;
     text-align: center;
