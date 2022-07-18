@@ -85,7 +85,7 @@ nav{
     cursor: pointer;
     margin-right: 19px;
     padding: 7px 10px;
-    background: #80808040;
+    background: #bcbcbc40;
     
 }
 .notification-icon:hover{
@@ -95,6 +95,8 @@ nav{
     width: 16px;
     opacity: 1;
     margin-top: 1px;
+    opacity: .6;
+
 }
 .nav-user-icon{
     margin-left: 20px;
@@ -110,7 +112,7 @@ nav{
 }
 .search-box img{
     width: 15px;
-    opacity: .3;
+    opacity: .4;
 
 }
 .search-box input{
@@ -256,7 +258,7 @@ nav{
 
 }
 .imp-links .inactive {
-    color:  rgb(152, 152, 152);
+    color:  rgb(127, 127, 127);
     background: #ffffff;
 
 }
@@ -293,7 +295,7 @@ nav{
 }
 .right-body{
     background: #fff;
-    box-shadow: rgba(149, 157, 165, 0.15) 10px 0px 30px;
+    box-shadow: rgba(149, 157, 165, 0.25) 10px 0px 30px;
     padding: 20px;
     border-radius: 7px;
 
@@ -316,7 +318,7 @@ nav{
 }
 .event:hover{
     filter: contrast(1.1);
-    box-shadow: rgba(149, 157, 165, 0.1) 10px 0px 29px;
+    box-shadow: rgba(149, 157, 165, 0.25) 10px 0px 29px;
     size: 1.2;
     border-radius: 10px;
     transition: .3s;
@@ -335,7 +337,7 @@ nav{
 
 }
 .event:hover .left-event{
-    background: #fff;
+    background: rgb(159, 159, 159);
     transition: .5s;
 
 }
@@ -591,7 +593,7 @@ nav{
     box-shadow: rgba(149, 157, 165, 0.071) 10px 0px 30px;
     border-radius: 8px;
     text-align: center;
-    margin-right: 30px;
+    margin-right: 3%;
 
 }
 .item-image{
